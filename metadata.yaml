@@ -1,0 +1,33 @@
+_repo: Reve-blanc-b-Au-cours_72992
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Ardel, Henri
+    aliases:
+    - Abraham, Berthe
+    - Ardel, Henry
+    birthdate: 1863
+    deathdate: 1938
+    gutenberg_agent_id: '34968'
+    url: http://www.gutenberg.org/2009/agents/34968
+    wikipedia: https://fr.wikipedia.org/wiki/Henri_Ardel
+description: ''
+gutenberg_issued: '2024-02-19'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '72992'
+language: fr
+pgterms:marc904: https://gallica.bnf.fr/ark:/12148/bd6t5368413z
+pgterms:marc905: 20240206152215ardel
+pgterms:marc906: '1895'
+pgterms:marc907: FR
+production_note: Laurent Vogel (This file was produced from images generously made
+  available by the Bibliothèque nationale de France (BnF/Gallica))
+publication_note: '  $aParis :$bPlon, $c1895.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'Rêve blanc : $b Au cours!'
+url: http://www.gutenberg.org/ebooks/72992
